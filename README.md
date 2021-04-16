@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @LarissaBrown
-- 👀 I’m interested in making things work and look good.
+- 👀 I’m interested in making things work well and look good.
 - 🌱 I’m currently learning React Native.
-- 💞️ I’m looking to collaborate on React projects.
+- 💞️ I’m looking to collaborate on any projects.
+- ✨ Visit my LinkedIn page: https://www.linkedin.com/in/larissa-j-brown/
 - 📫 How to reach me: text me at 801-946-0113 or email: LarissaBrownDeveloper@gmail.com
 
 <!---
