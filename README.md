@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning and toying with Vue.js.
 - 💞️ I’m collaborating with others for proofs of concept for several projects.
 - ✨ Visit my LinkedIn page: https://www.linkedin.com/in/larissa-j-brown/
-- 📫 How to reach me: text me at 801-946-0113 or email: LarissaBrownDeveloper@gmail.com
+- 📫 How to reach me: text me at 801-898-4178 or email: LarissaBrownDeveloper@gmail.com
 
 <!---
 LarissaBrown/LarissaBrown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
