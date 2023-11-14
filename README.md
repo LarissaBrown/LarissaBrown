@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @LarissaBrown
-- 👀 I’m interested in making things work well and look good.
-- 🌱 I’m currently learning and toying with Vue.js.
-- 💞️ I’m collaborating with others for proofs of concept for several projects.
+- 👋 Hi, I’m Larissa Johnson Brown 
+- 👀 I’m interested in making things work well and look good. I also really like people and working alone.
+- 🌱 I'm using TypeScript, JavaScript, ReactJs, NodeJs, NextJs, Firebase, Figma, Trello, CSS, HTML, MaterialUI, Tailwind, and MY BRAIN .
+- 💞️ I’m currently working on Passion Projects for my condo HOA and for my Dogs
 - ✨ Visit my LinkedIn page: https://www.linkedin.com/in/larissa-j-brown/
 - 📫 How to reach me: text me at 801-898-4178 or email: LarissaBrownDeveloper@gmail.com
 
